@@ -25,25 +25,39 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><strong>Morning Office View</strong></td>
+      <td align="center"><strong>Isometric Office View</strong></td>
       <td align="center"><strong>Character Details Panel</strong></td>
     </tr>
     <tr>
-      <td><img src="https://via.placeholder.com/600x400/2563eb/ffffff?text=Isometric+Office+View" alt="Office View" width="500"></td>
-      <td><img src="https://via.placeholder.com/600x400/f43f5e/ffffff?text=Character+Panel" alt="Character Panel" width="500"></td>
+      <td><img src="docs/screenshots/office-view.png" alt="Office View" width="500"></td>
+      <td><img src="docs/screenshots/character-panel.png" alt="Character Panel" width="500"></td>
     </tr>
     <tr>
-      <td align="center"><strong>Evening Lighting</strong></td>
+      <td align="center"><strong>Furniture Details Panel</strong></td>
+      <td align="center"><strong>About Panel</strong></td>
+    </tr>
+    <tr>
+      <td><img src="docs/screenshots/furniture-panel.png" alt="Furniture Panel" width="500"></td>
+      <td><img src="docs/screenshots/about-panel.png" alt="About Panel" width="500"></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Camera Rotated View</strong></td>
+      <td align="center"><strong>Zoomed In View</strong></td>
+    </tr>
+    <tr>
+      <td><img src="docs/screenshots/rotated-view.png" alt="Rotated View" width="500"></td>
+      <td><img src="docs/screenshots/zoomed-view.png" alt="Zoomed View" width="500"></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Evening Golden Hour Lighting</strong></td>
       <td align="center"><strong>Activity Feed & Roster</strong></td>
     </tr>
     <tr>
-      <td><img src="https://via.placeholder.com/600x400/f97316/ffffff?text=Golden+Hour+Lighting" alt="Evening Lighting" width="500"></td>
-      <td><img src="https://via.placeholder.com/600x400/10b981/ffffff?text=Activity+Feed" alt="Activity Feed" width="500"></td>
+      <td><img src="docs/screenshots/evening-lighting.png" alt="Evening Lighting" width="500"></td>
+      <td><img src="docs/screenshots/activity-feed.png" alt="Activity Feed" width="500"></td>
     </tr>
   </table>
 </div>
-
-> 📝 **Note**: Replace placeholder images above with actual screenshots from the running app.
 
 ---
 

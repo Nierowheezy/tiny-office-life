@@ -10,6 +10,7 @@ import {
   Users,
   Clock,
   Sparkles,
+  Info,
 } from 'lucide-react';
 import { SimulationState } from '../types';
 import { officeSim } from '../simulation/OfficeSimulation';
@@ -131,6 +132,15 @@ export const TopBar: React.FC<TopBarProps> = ({ simState }) => {
           title="Restart Day (8:00 AM)"
         >
           <RotateCcw className="w-3.5 h-3.5" />
+        </button>
+
+        {/* About Button */}
+        <button
+          onClick={() => window.dispatchEvent(new CustomEvent('open-about'))}
+          className="p-2 rounded-xl text-slate-500 hover:text-blue-600 hover:bg-blue-50 transition-all"
+          title="About Tiny Office Life (press H)"
+        >
+          <Info className="w-3.5 h-3.5" />
         </button>
 
         {/* Audio Mute Toggle */}
